@@ -8,15 +8,6 @@ def loop_iterator(number_of_times)
     puts phrase
     counter += 1
   end
-  
-enddef loop_iterator(number_of_times)
-  counter = 1 
-  phrase = "Welcome to Flatiron School's Web Development Course!"
-  
-  while counter < 10 
-    puts phrase
-    counter += 1
-  end
 end
   
   # Code your solution here using the "loop" keyword to puts out the below phrase
