@@ -23,9 +23,6 @@ def while_iterator(number_of_times)
   puts phrase 
   counter += 1
 end
-  # code your solution here using the "while" keyword
-  # hint: user a counter to tell the while loop when to stop!
-  
 end
 
 def until_iterator(number_of_times)
